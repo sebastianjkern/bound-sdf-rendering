@@ -1,2 +1,2 @@
 # bound-sdf-rendering
-Code paste for example code for compute shader run sdf evaluation only in certain region of image
+Sample code for evaluating an SDF in a region of interest using a compute shader
